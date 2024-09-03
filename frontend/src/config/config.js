@@ -5,13 +5,13 @@ import "firebase/compat/auth";
 import 'firebase/compat/storage';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA4gkifzquxM0SSjT4oVs1Gxm9EhrbLaSA",
-    authDomain: "craftybay-66a74.firebaseapp.com",
-    projectId: "craftybay-66a74",
-    storageBucket: "craftybay-66a74.appspot.com",
-    messagingSenderId: "775026712302",
-    appId: "1:775026712302:web:90bff3aafcf0c3b486ddff",
-    measurementId: "G-TCH7CKG7ST"
+    apiKey: "{YOUR_API_KEY_HERE}",
+    authDomain: "{}",
+    projectId: "{}",
+    storageBucket: "{}",
+    messagingSenderId: "{}",
+    appId: "{}",
+    measurementId: "{}"
 };
 
 firebase.initializeApp(firebaseConfig);
