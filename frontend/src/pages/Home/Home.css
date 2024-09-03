@@ -1,0 +1,81 @@
+ .home-header {
+  
+    width: 100vw;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home-container {
+background:linear-gradient(#83bedf,#fff);
+}
+
+.header-btn:hover {
+    border-color: white;
+}
+.home-main{
+    display: flex;
+}
+.home-heading {
+    padding: 0px;
+    margin: 0px;
+    font-size: 1.5rem;
+    margin-left: 30px;
+    color: #01476f;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+}
+
+.yoga-img{
+    height: 40rem;
+  
+}
+.image{
+    margin-left: auto;
+        margin-right: auto;
+        z-index: 1;
+}
+.description {
+position: relative;
+    top: 32px;
+    color: #fff;
+    font-size: 130px;
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 120px;
+    right: 80px;
+}
+
+.btn-section {
+    position: absolute;
+    left:25vw
+  
+}
+
+.btn {
+    padding: 10px;
+  
+   
+    font-size: 1.15rem;
+    color: #fff;
+    cursor: pointer;
+}
+.navbar-links{
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-right: 40px;
+}
+
+.btn:hover {
+    color: #fff;
+    border-bottom: 2px solid #01476f;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+

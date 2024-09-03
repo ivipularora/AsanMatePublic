@@ -1,0 +1,31 @@
+.about-container {
+    width: 100vw;
+    height: 100vh;
+background: linear-gradient(#83bedf, #fff);
+}
+.about-heading {
+    font-size: 54px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.about-main {
+    margin: auto;
+    width: 70%;
+}
+.about-content {
+    color: #01476f;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.developer-info h4 {
+    color: #01476f;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.about-content a,
+.developer-info a {
+ color: white;  
+}

@@ -1,0 +1,36 @@
+.instructions-list {
+    width: 40%;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px #01476f;
+    border: 0.1px solid #66bbed;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.instruction {
+    margin: 10px;
+    letter-spacing: 0.5px;
+    color: #01476f;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.instructions-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    margin-top: 20px;
+}
+
+.pose-demo-img {
+    height: 550px;
+
+    border-radius: 15px;
+}
+
+.instructions {
+    font-size: 24px;
+    padding: 10px;
+    color: #01476f;
+    font-weight: bold;
+}
